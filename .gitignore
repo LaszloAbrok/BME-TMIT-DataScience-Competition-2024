@@ -2,3 +2,7 @@ api_key.txt
 .venv
 username.txt
 notes.md
+prediction_datas
+db.sqlite3
+*.html
+*.csv
